@@ -1,0 +1,73 @@
+JohnDoe
+123 Elm Street, Springfield
+123 250000 12 2000 y
+JaneSmith
+456 Maple Avenue, Shelbyville
+456 300000 24 2500 n
+AliceJohnson
+789 Oak Lane, Capital City
+789 400000 36 3500 y
+BobBrown
+321 Pine Road, Metropolis
+321 150000 6 1500 n
+JohnDoe
+123 Elm Street, Springfield
+123 250000 12 2000 y
+JaneSmith
+456 Maple Avenue, Shelbyville
+456 300000 24 2500 n
+AliceJohnson
+789 Oak Lane, Capital City
+789 400000 36 3500 y
+BobBrown
+321 Pine Road, Metropolis
+321 150000 6 1500 n
+CharlieDavis
+555 Birch Drive, Gotham
+555 500000 48 4000 y
+EmilyClark
+666 Cedar Street, Star City
+666 220000 18 1800 n
+DanielEvans
+777 Redwood Court, Central City
+777 330000 30 2800 y
+SophiaHarris
+888 Spruce Lane, Keystone
+888 410000 12 3500 n
+MichaelWilson
+999 Willow Way, Smallville
+999 190000 6 1600 y
+OliviaMartinez
+101 Oakwood Blvd, Riverdale
+101 350000 24 2700 y
+LiamThomas
+202 Pinecrest Ave, Hill Valley
+202 280000 18 2200 n
+IsabellaScott
+303 Maplewood Dr, Hawkins
+303 470000 36 3900 y
+EthanWhite
+404 Cedarbrook Rd, Springfield
+404 240000 12 2000 y
+AvaMoore
+505 Birchwood St, Shelbyville
+505 210000 18 1700 n
+JamesTaylor
+606 Aspen Ln, Capital City
+606 430000 24 3200 y
+MiaAnderson
+707 Elmwood Ave, Metropolis
+707 340000 12 2500 y
+LucasBrown
+808 Redwood Dr, Gotham
+808 220000 18 2000 n
+HarperMiller
+909 Pineview St, Star City
+909 370000 24 2900 y
+EllaMartinez
+111 Sprucewood Ave, Central City
+111 150000 6 1400 n
+BenjaminClark
+222 Cedarfield Ln, Keystone
+222 500000 36 4000 y
+

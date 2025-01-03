@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735802664 source:c:\users\ncs\desktop\pf final project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<iomanip>
+	<sstream>
+
